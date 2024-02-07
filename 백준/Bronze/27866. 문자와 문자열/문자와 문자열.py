@@ -1,3 +1,3 @@
-a = input()
-b = int(input())
-print(a[b-1])
+S = str(input())
+i = int(input())
+print(S[i-1])
